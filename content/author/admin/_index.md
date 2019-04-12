@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Nelson Bighetti"
+name = "Bucks Hand Hub"
 
 # Username (this should match the folder name)
 authors = ["admin"]
@@ -9,44 +9,27 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Professor of Artificial Intelligence"
+role = "Caring across counties"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Stanford University", url = "" } ]
+organizations = [ { name = "Buckinghamshire Healthcare NHS Trust", url = "https://www.buckshealthcare.nhs.uk" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = "Bucks Hand Hub is devoted to improving the care of hand conditions, in collaboration with the BSSH"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
 
 # List (academic) interests or hobbies
-interests = [
-  "Artificial Intelligence",
-  "Computational Linguistics",
-  "Information Retrieval"
-]
+
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["Researchers", "Visitors"]
+user_groups = []
 
 # List qualifications (such as academic degrees)
-[[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
 
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -82,6 +65,4 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+The Bucks Hand Hub is an innovative partnership between orthopaedic and plastic surgeons, specialist physiotherapists, and nursing staff devoted to the treatment of planned and emergency treatment of problems of the hand and wrist in Bucks and beyond. Based at Stoke Mandeville, we have a specialist multidisciplinary clinic bringing clinical expertise, therapies and cutting edge investigations to the patient in one location.
