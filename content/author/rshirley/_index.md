@@ -1,9 +1,9 @@
 +++
 # Display name
-name = "Alastair Graham"
+name = "Rebecca Shirley"
 
 # Username (this should match the folder name)
-authors = ["Rebecca Shirley"]
+authors = ["rshirley"]
 
 # Is this the primary user of the site?
 superuser = false
@@ -81,4 +81,4 @@ user_groups = ["Plastics Consultants"]
 
 +++
 
-Blurb pending. 
+Blurb pending.
