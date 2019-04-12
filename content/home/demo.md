@@ -10,7 +10,7 @@ active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
 title = "Bucks Hand Hub"
-subtitle = "Caring across counties"
+subtitle = "*Caring across counties*"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -30,7 +30,7 @@ subtitle = "Caring across counties"
   # gradient_end = "ForestGreen"
   
   # Background image.
-  image = "hand_upright.jpg"  # Name of image in `static/img/`.
+  image = "hand_horizontal.jpg"  # Name of image in `static/img/`.
   image_darken = 0  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
@@ -52,7 +52,7 @@ Welcome to the **Bucks Hand Hub**!
 
 The Bucks Hand Hub is an innovative partnership between orthopaedic and plastic surgeons, specialist physiotherapists, and nursing staff devoted to the treatment of planned and emergency treatment of problems of the hand and wrist in Buckinghamshire and beyond. Based at Stoke Mandeville Hospital, we have a specialist multidisciplinary clinic bringing clinical expertise, therapies and cutting edge investigations to the patient in one location.
 
-The Hand Hub is a (soon to be accreditted) *Hand Centre/Unit* by the [British Society for Surgery of the Hand](https://www.bssh.ac.uk). Departments like ours are selected to be champions of excellent hand care in their region by providing:
+The Hand Hub is a (soon to be accredited) *Hand Centre/Unit* by the [British Society for Surgery of the Hand](https://www.bssh.ac.uk). Departments like ours are selected to be champions of excellent hand care in their region by providing:
 
 - Patient information and collaboration
 - Innovative service delivery
