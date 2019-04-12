@@ -27,13 +27,12 @@
   name = "Patient Information"
   url = "/pil/"
   weight = 50
-  indentifier = "pat-info"
 
-  [[main]]
-    name = "Carpal Tunnel Syndrome"
-    url = "/pil/"
-    weight = 50
-    parent = "pat-info"
+[[main]]
+  name = "Carpal Tunnel Syndrome"
+  url = "/pil/"
+  weight = 50
+  parent = "pat-info"
 
 [[main]]
   name = "Contact"
