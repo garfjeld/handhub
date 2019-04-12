@@ -13,6 +13,9 @@ type = "docs"  # Do not modify.
   name = "AIO Carpal tunnel page"
   weight = 1
 +++
+
+The menu to the right can be used for each question, or one big section with lots of sections (see navigation table to the right).
+
 #What is carpal tunnel syndrome?
 Carpal tunnel syndrome (CTS) is condition caused by pressing (compression) of one of the nerves in your wrist — the median nerve — where it passes through your wrist in the carpal tunnel.  Symptoms such as pain, tingling and numbness in your hand are most common.
 
@@ -26,18 +29,27 @@ The median nerve has a number of functions, including some of the movements of y
 
 #What are the treatment options?
 Conservative:
+
 *	No treatment is needed for some people and the problems get better, in others wrist splints (a support for the wrist) can help
+
 *	Some patients do not require any treatment, and the symptoms can resolve by themselves, although we recommend reducing the actions that provoke your symptoms
+
 *	In those who are pregnant symptoms will often resolve spontaneously once the baby is born, and if you are overweight then losing weight can also help
+
 *	A wrist splint worn at night can also improve symptoms in some patients by keeping the wrist at an angle that minimises the compression.  This tends to be most successful in those who have not had symptoms for long or those whose symptoms come and go
 
 Medical:
+
 *	Medicines (painkillers, injections) can reduce pain in some people where problems are not too bad
+
 *	NSAID painkillers such as ibuprofen may be beneficial in some patients with milder symptoms
+
 *	Steroid injections can also be very effective in those with moderate symptoms, improving symptoms for about 3 in 4 patients
 
 Surgical:
+
 *	Operations may be needed when your problems are bad or not getting better with other treatment
+
 *	An operation, normally under local anaesthetic, can be used to treat those where other options have failed or when symptoms are severe.  This can either be an open or a keyhole operation, where the flexor retinaculum over the carpal tunnel is cut to release the pressure and give more space.
 
 # When do I need to see a specialist?
@@ -53,4 +65,4 @@ This will depend on how bad your problems are – about 3 in 4 people get better
 
 If your symptoms are mild (especially if they are only on one side, you have not had them for long, or you are under 30 years old) then typically symptoms will resolve within 6 months.  This happens in around a quarter of patients.  Steroid injections can give permanent relief, and tend to be effective within a month, but approximately three quarters of patients will still require surgery within a year.  Surgery will usually give permanent improvement, although there can be adverse effects including pain and weakness following the surgery, and the complications posed by any operation.  However, typically patients are able to return to modified work within 2 weeks, and to normal duties within 3 weeks.  Long term it is uncommon for CTS to be recurrent or persistent.
 
-This ![picture](static/img/CTS.jpg) from [the internet](https://patient.info/health/carpal-tunnel-syndrome-leaflet) is pretty good — don’t know if we can use that/something similar?
+This ![picture](/img/CTS.jpg) from [the internet](https://patient.info/health/carpal-tunnel-syndrome-leaflet) is pretty good — don’t know if we can use that/something similar?
