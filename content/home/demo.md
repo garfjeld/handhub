@@ -9,7 +9,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Bucks Hand Hub"
+title = "Welcome to the Bucks Hand Hub"
 subtitle = "*Caring across counties*"
 
 [design]
@@ -24,11 +24,11 @@ subtitle = "*Caring across counties*"
 
   # Background color.
   # color = "navy"
-  
+
   # Background gradient.
   # gradient_start = "DarkGreen"
   # gradient_end = "ForestGreen"
-  
+
   # Background image.
   image = "hand_horizontal.jpg"  # Name of image in `static/img/`.
   image_darken = 0.2  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
@@ -41,9 +41,9 @@ subtitle = "*Caring across counties*"
   padding = ["20px", "0", "20px", "0"]
 
 [advanced]
- # Custom CSS. 
+ # Custom CSS.
  css_style = ""
- 
+
  # CSS class.
  css_class = ""
 +++

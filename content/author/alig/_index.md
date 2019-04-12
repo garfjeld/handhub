@@ -82,4 +82,10 @@ user_groups = ["Orthopaedic Consultants"]
 
 +++
 
-Ali G is the boss.
+He completed his orthopaedic training in Oxford, then did hand fellowships in Oxford and Melbourne.  He has a life-long passion for hand surgery.  
+
+He was appointed consultant orthopaedic hand and wrist surgeon in the Buckinghamshire Hospitals in 2003, and has been been heavily involved in clinical care, developing the service, and in training the next generation of surgeons.  
+
+He has wide-ranging interests in treating disorders of the hands.  In terms of rarer disorders he has extensive experience in treatment of complex wrist injuries (including distal radius and scaphoid fractures), adult neurological disorders (such as stroke paralysis and Parkinsons disease), assessing patients with baffling symptoms, and treatment of hand disorders in musicians.  
+
+Interests outside his work include playing music, drawing, and painting. 
