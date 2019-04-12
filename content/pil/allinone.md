@@ -10,13 +10,13 @@ type = "docs"  # Do not modify.
 
 # Add menu entry to sidebar.
 [menu.pil]
-  name = "AIO Carpal tunnel page"
-  weight = 1
+  name = "All-in-one Carpal tunnel page"
+  weight = 4
 +++
 
 The menu to the right can be used for each question, or one big section with lots of sections (see navigation table to the right).
 
-#What is carpal tunnel syndrome?
+# What is carpal tunnel syndrome?
 Carpal tunnel syndrome (CTS) is condition caused by pressing (compression) of one of the nerves in your wrist — the median nerve — where it passes through your wrist in the carpal tunnel.  Symptoms such as pain, tingling and numbness in your hand are most common.
 
 
@@ -27,7 +27,7 @@ The carpal tunnel is on the palmar side of your hand, and formed by the carpals 
 
 The median nerve has a number of functions, including some of the movements of your thumb, as well as sensation to your thumb, index, middle and half the ring finger. This means that when it is compressed the symptoms you get relate to this — predominantly pain in the area supplied by the median nerve.  Compression can also lead to weakness of the small muscles that move your thumb, and they may become atrophied (reduce in size).
 
-#What are the treatment options?
+# What are the treatment options?
 Conservative:
 
 *	No treatment is needed for some people and the problems get better, in others wrist splints (a support for the wrist) can help

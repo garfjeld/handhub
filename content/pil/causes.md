@@ -12,7 +12,7 @@ type = "docs"  # Do not modify.
 linktitle = "What causes carpal tunnel syndrome?"
 [menu.pil]
   parent = "Carpal Tunnel Syndrome"
-  weight = 1
+  weight = 3
 +++
 
 CTS happens when the median nerve is pressed at the wrist, in an area called the carpal tunnel.  This is on the bottom side of your hand, next to your wrist joint.  Pressure on this nerve can cause you to feel pain or other ‘funny feelings’ in the skin of your hand, or make your hand weaker. This pressure can happen for different reasons including diseases of the joint like arthritis, wrist damage, being overweight, being pregnant and too much water in your body (water retention).

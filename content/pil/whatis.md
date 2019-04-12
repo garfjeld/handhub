@@ -12,7 +12,7 @@ type = "docs"  # Do not modify.
 linktitle = "What is carpal tunnel syndrome?"
 [menu.pil]
   parent = "Carpal Tunnel Syndrome"
-  weight = 1
+  weight = 2
 +++
 
 Carpal tunnel syndrome (CTS) is condition caused by pressing (compression) of one of the nerves in your wrist — the median nerve — where it passes through your wrist in the carpal tunnel.  Symptoms such as pain, tingling and numbness in your hand are most common.
