@@ -1,4 +1,5 @@
 +++
+# THIS DEMO SECTION HAS BEEN CONVERTED INTO AN INTRO SECTION
 # A Demo section created with the Blank widget.
 # Any elements can be added in the body: https://sourcethemes.com/academic/docs/writing-markdown-latex/
 # Add more sections by duplicating this file and customizing to your requirements.
@@ -8,8 +9,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Academic Kickstart"
-subtitle = ""
+title = "Bucks Hand Hub"
+subtitle = "Caring across counties"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -47,26 +48,23 @@ subtitle = ""
  css_class = ""
 +++
 
-Welcome to the **Hand Hub** template!
+Welcome to the **Bucks Hand Hub**!
 
-Follow our [Getting Started](https://sourcethemes.com/academic/docs/get-started/) and [Page Builder](https://sourcethemes.com/academic/docs/widgets/) guides to easily personalize the template and then [add your own content](https://sourcethemes.com/academic/docs/managing-content/).
+The Bucks Hand Hub is an innovative partnership between orthopaedic and plastic surgeons, specialist physiotherapists, and nursing staff devoted to the treatment of planned and emergency treatment of problems of the hand and wrist in Buckinghamshire and beyond. Based at Stoke Mandeville Hospital, we have a specialist multidisciplinary clinic bringing clinical expertise, therapies and cutting edge investigations to the patient in one location.
 
-For inspiration, check out [the Markdown files](https://sourcethemes.com/academic/docs/install/#demo-content) which power the [personal demo](https://academic-demo.netlify.com/). The easiest way to publish your new site to the internet is with [Netlify](https://sourcethemes.com/academic/docs/deployment/).
+The Hand Hub is a (soon to be accreditted) *Hand Centre/Unit* by the [British Society for Surgery of the Hand](https://www.bssh.ac.uk). Departments like ours are selected to be champions of excellent hand care in their region by providing:
 
-- [View the documentation](https://sourcethemes.com/academic/docs/)
-- [Ask a question](http://discuss.gohugo.io/)
-- [Request a feature or report a bug](https://github.com/gcushen/hugo-academic/issues)
-- Updating? View the [Update Guide](https://sourcethemes.com/academic/docs/update/) and [Release Notes](https://sourcethemes.com/academic/updates/)
-- Support development of Academic:
-  - [Donate a coffee](https://paypal.me/cushen)
-  - [Become a backer on Patreon](https://www.patreon.com/cushen)
-  - [Decorate your laptop or journal with an Academic sticker](https://www.redbubble.com/people/neutreno/works/34387919-academic)
-  - [Wear the T-shirt](https://academic.threadless.com/)
+- Patient information and collaboration
+- Innovative service delivery
+- Robust governance
+- Transparent recroding and reporting or outcomes
+- Specialist training and education throughout the multidisciplinary team
+- Cutting-edge research, in collaboration with [University of Oxford](https://www.ndorms.ox.ac.uk) and [BSSH](https://www.bssh.ac.uk)
+
+
 
 {{% alert note %}}
-This homepage section is an example of adding [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/) to the [*Blank* widget](https://sourcethemes.com/academic/docs/widgets/).
+This site is the home of the Bucks Hand Hub, and is designed as a resource for patients and clinicians to better understand out services. It is not deisgned to provide stand-alone clinical advice.
 
-Backgrounds can be applied to any section. Here, the *background* option is set give a *color gradient*.
-
-**To remove this section, delete `content/home/demo.md`.**
+**Please do *not* use this without the benefit of face-to-face clinical advice.** The conditions and situations discussed may not apply to your specific case. Feel free to [contact us](#contact) if you have nay clinical questions.
 {{% /alert %}}
