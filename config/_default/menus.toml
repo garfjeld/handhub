@@ -32,7 +32,7 @@
   name = "Carpal Tunnel Syndrome"
   url = "/pil/"
   weight = 50
-  parent = "pat-info"
+  parent = "Patient Information"
 
 [[main]]
   name = "Contact"
