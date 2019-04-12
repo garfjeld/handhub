@@ -1,9 +1,9 @@
 +++
 # Display name
-name = "Alastair Graham"
+name = "Ramesh Chennagiri"
 
 # Username (this should match the folder name)
-authors = ["alig"]
+authors = ["rchen"]
 
 # Is this the primary user of the site?
 superuser = false
@@ -25,7 +25,7 @@ email = ""
 interests = [
   "Hands",
   "Wrists",
-  "Hamate fractures"
+  "Elbows"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -34,9 +34,9 @@ user_groups = ["Orthopaedic Consultants"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "Diploma in Hand Surgery"
+  institution = "University of Manchester"
+  year = 2008
 
 [[education.courses]]
   course = "MEng in Artificial Intelligence"
@@ -82,10 +82,14 @@ user_groups = ["Orthopaedic Consultants"]
 
 +++
 
-He completed his orthopaedic training in Oxford, then did hand fellowships in Oxford and Melbourne.  He has a life-long passion for hand surgery.  
+Mr Chennagiri is a consultant in trauma and orthopaedics working in Buckinghamshire. He specialises in disorders of the hand, wrist and elbow. He qualified as a doctor and then completed his post-graduate training in trauma and orthopaedics in India in 1994.
 
-He was appointed consultant orthopaedic hand and wrist surgeon in the Buckinghamshire Hospitals in 2003, and has been been heavily involved in clinical care, developing the service, and in training the next generation of surgeons.  
+Mr Chennagiri continued his higher specialist training trauma and orthopaedics in Oxford deanery. During the course of his training he has worked with experts in hand and wrist as well as elbow surgery in Oxford and Reading. He underwent intensive fellowship training in hand and wrist surgery in the internationally renowned Pulvertaft Hand Centre in Derby. He obtained his Diploma in Hand Surgery (University of Manchester). Since 2010, he has been practicing as a full-time NHS consultant in trauma and orthopaedics.
 
-He has wide-ranging interests in treating disorders of the hands.  In terms of rarer disorders he has extensive experience in treatment of complex wrist injuries (including distal radius and scaphoid fractures), adult neurological disorders (such as stroke paralysis and Parkinsons disease), assessing patients with baffling symptoms, and treatment of hand disorders in musicians.  
+Mr Chennagiri is passionate about teaching and training and is actively involved in junior doctor training in trauma and orthopaedics. He is the orthopaedic college tutor in Buckinghamshire Healthcare NHS Trust and liaises with the training programme director for trauma and orthopaedics in Oxford. He has sat on the national interview panel for appointment of specialist trainees to the speciality.
 
-Interests outside his work include playing music, drawing, and painting. 
+He has published papers in peer-reviewed journals and his work has also been presented in several national and international meetings.
+
+He is on the GMC Specialist Register for Trauma and Orthopaedics. He is a fellow of the Royal College of Surgeons, and a member of the British Orthopaedic Association and the British Society for Surgery of the Hand.
+
+He is a keen cricketer and plays in the Oxfordshire Cricket Association league. He has represented his state in India at the under-19 level.
