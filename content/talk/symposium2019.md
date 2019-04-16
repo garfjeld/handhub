@@ -1,12 +1,12 @@
 +++
-title = "Buckinghamshire Hand Symposium 2018"
-date = 2018-05-16T09:00:00  # Schedule page publish date.
+title = "Buckinghamshire Hand Symposium 2019"
+date = 2019-05-15T00:00:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2018-04-16T09:00:00
-time_end = 2018-04-16T15:00:00
+time_start = 2019-05-15T09:00:00
+time_end = 2019-05-15T15:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = []
@@ -56,9 +56,13 @@ caption = ""
 
 +++
 
-Inaugrual meeting where we hosted special guest including Sarah Burke and Frank Burke, Donald Sammut, and organised workshops on:
+An exciting fully-sponsored event with top national and international speakers available free of charge to anyone interested in hands. Numbers limited to 120 places.
 
-* Diagnostic ultrasound
-* Neurophysiology
-* Splintage
-* Computer assisted anatomy learning
+* International speakers from Xpert clinics in Holland
+* Father and son speakers James and Peter Burge
+* Donald Sammut’s anniversary of his 20 year experience of
+leprosy work in Nepal
+* Tetraplegia,
+* CRPS and much, much more.....
+
+To register please email [bht.handsymposium@nhs.net](mailto:bht.handsymposium@nhs.net)
