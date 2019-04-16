@@ -1,12 +1,12 @@
 +++
 title = "Buckinghamshire Hand Symposium 2019"
-date = 2018-05-16T09:00:00  # Schedule page publish date.
+date = 2019-05-15T09:00:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2018-04-16T09:00:00
-time_end = 2018-04-16T15:00:00
+time_start = 2019-05-15T09:00:00
+time_end = 2019-05-15T15:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = []
