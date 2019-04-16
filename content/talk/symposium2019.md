@@ -37,7 +37,7 @@ projects = ["Annual Hand Symposium"]
 tags = ["Clinical training", "Symposium"]
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "files/symposium2019.pdf"
 url_slides = ""
 url_video = ""
 url_code = ""
@@ -57,6 +57,8 @@ caption = ""
 +++
 
 An exciting fully-sponsored event with top national and international speakers available free of charge to anyone interested in hands. Numbers limited to 120 places.
+
+{{% staticref "files/symposium2019.pdf" %}}Download the flyer{{% /staticref %}}
 
 * International speakers from Xpert clinics in Holland
 * Father and son speakers James and Peter Burge
