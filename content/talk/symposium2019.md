@@ -37,7 +37,7 @@ projects = ["Annual Hand Symposium"]
 tags = ["Clinical training", "Symposium"]
 
 # Links (optional).
-url_pdf = "files/symposium2019.pdf"
+url_pdf = ""
 url_slides = ""
 url_video = ""
 url_code = ""
