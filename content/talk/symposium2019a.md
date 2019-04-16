@@ -61,7 +61,7 @@ An exciting fully-sponsored event with top national and international speakers a
 
 * International speakers from Xpert clinics in Holland
 * Father and son speakers James and Peter Burge
-* Donald Sammut’s anniversary of his 20 year experience of
+* Donald Sammuts anniversary of his 20 year experience of
 leprosy work in Nepal
-* Tetraplegia,
+* Tetraplegia
 * CRPS and much, much more.....
