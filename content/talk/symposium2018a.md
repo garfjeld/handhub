@@ -1,6 +1,6 @@
 +++
 title = "Buckinghamshire Hand Symposium 2019"
-date = 2019-05-15T09:00:00 date_end = 2019-05-15T16:00:00  # Schedule page publish date.
+date = 2019-05-15T09:00:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
