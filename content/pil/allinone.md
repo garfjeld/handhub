@@ -10,7 +10,7 @@ type = "docs"  # Do not modify.
 
 # Add menu entry to sidebar.
 [menu.pil]
-  name = "All-in-one Carpal tunnel page"
+  name = "Carpal Tunnel Syndrome"
   weight = 4
 +++
 

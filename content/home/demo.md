@@ -50,21 +50,21 @@ subtitle = "*Caring across counties*"
 
 Welcome to the **Bucks Hand Hub**!
 
-The Bucks Hand Hub is an innovative partnership between orthopaedic and plastic surgeons, specialist physiotherapists, and nursing staff devoted to the treatment of planned and emergency treatment of problems of the hand and wrist in Buckinghamshire and beyond. Based at Stoke Mandeville Hospital, we have a specialist multidisciplinary clinic bringing clinical expertise, therapies and cutting edge investigations to the patient in one location.
+The Bucks Hand Hub is an innovative partnership between orthopaedic and plastic surgeons, specialist physiotherapists, and nursing staff devoted to the treatment of planned and emergency treatment of problems of the hand and wrist in Buckinghamshire and beyond. Based at Stoke Mandeville Hospital, we have a specialist multidisciplinary clinic bringing clinical expertise, therapies, and cutting edge investigations to patients in one location.
 
 The Hand Hub is a (soon to be accredited) *Hand Centre/Unit* by the [British Society for Surgery of the Hand](https://www.bssh.ac.uk). Departments like ours are selected to be champions of excellent hand care in their region by providing:
 
 - Patient information and collaboration
 - Innovative service delivery
 - Robust governance
-- Transparent recroding and reporting or outcomes
+- Transparent recording and reporting of outcomes
 - Specialist training and education throughout the multidisciplinary team
 - Cutting-edge research, in collaboration with [University of Oxford](https://www.ndorms.ox.ac.uk) and [BSSH](https://www.bssh.ac.uk)
 
 
 
 {{% alert note %}}
-This site is the home of the Bucks Hand Hub, and is designed as a resource for patients and clinicians to better understand out services. It is not deisgned to provide stand-alone clinical advice.
+This site is the home of the Bucks Hand Hub, and is designed as a resource for patients and clinicians to better understand out services. It is not designed to provide stand-alone clinical advice.
 
-**Please do *not* use this without the benefit of face-to-face clinical advice.** The conditions and situations discussed may not apply to your specific case. Feel free to [contact us](#contact) if you have nay clinical questions.
+**Please do *not* use this without the benefit of face-to-face clinical advice.** The conditions and situations discussed may not apply to your specific case. Feel free to [contact us](#contact) if you have any clinical questions.
 {{% /alert %}}
