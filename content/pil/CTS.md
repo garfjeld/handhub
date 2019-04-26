@@ -15,7 +15,7 @@ type = "docs"  # Do not modify.
 +++
 
 Welcome to the Bucks Hand Hub information page about Carpal Tunnel Syndrome. On large screens like a desktop computer, the light grey 'On this page' links will follow you as you scroll down this page, and you can jump to a specific question by clicking it. On some computers with smaller screens, mobile phones, or tablet, these links are hidden.
-!(Links to help navigate this page)[/img/toc_guide.png]
+![Links to help navigate this page](/img/toc_guide.png)
 
 # What is carpal tunnel syndrome?
 Carpal tunnel syndrome (CTS) is condition caused by pressing (compression) of one of the nerves in your wrist — the median nerve — where it passes through your wrist in the carpal tunnel.  Symptoms such as pain, tingling and numbness in your hand are most common.
