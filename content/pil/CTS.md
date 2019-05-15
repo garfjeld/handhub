@@ -16,7 +16,7 @@ type = "docs"  # Do not modify.
 {{% alert note %}}
 Welcome to the Bucks Hand Hub information page about **Carpal Tunnel Syndrome**, and thank you for taking part in our trial to improve our patient information leaflets. This page should display well on a desktop, tablet, or mobile.
 
-Please browse this page at your leisure and think about *what you want to know and understand better* about carpal tunnel syndrome. Then, once you have read this page, please [complete our survey by clicking here](#contact) to help us improve the site.
+Please browse this page at your leisure and think about *what you want to know and understand better* about carpal tunnel syndrome. Once you have read this page, please [**complete our survey by clicking here**](#contact) to help us improve the site.
 {{% /alert %}}
 
 
@@ -72,5 +72,5 @@ If your symptoms are mild (especially if they are only on one side, you have not
 
 {{% alert note %}}
 Thank you for reading about carpal tunnel syndrome: we hope this page answered some of your questions.
-We value our patients needs, so please [complete our survey by clicking here](#contact) to help us improve the site.
+We value our patients needs, so please [**complete our survey by clicking here**](#contact) to help us improve the site.
 {{% /alert %}}
