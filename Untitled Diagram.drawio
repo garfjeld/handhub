@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dNxyNK7c78bLwvsdeMH5-19" value="Scaphoid non-union algorithm" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="40" y="40" width="780" height="1285" as="geometry" />
+          <mxGeometry x="40" y="40" width="780" height="1215" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-20" value="Presentation" style="swimlane;html=1;startSize=20;horizontal=0;fontSize=14;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
-          <mxGeometry x="20" width="760" height="260" as="geometry" />
+          <mxGeometry x="20" width="760" height="190" as="geometry" />
         </mxCell>
         <mxCell id="KyIwBhKpUNpI25Vdc8Lh-61" value="Degenerative change?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="dNxyNK7c78bLwvsdeMH5-20" vertex="1">
           <mxGeometry x="260" y="20" width="180" height="80" as="geometry" />
@@ -78,7 +78,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-21" value="Potential for union to prevent secondary arthritis" style="swimlane;html=1;startSize=20;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
-          <mxGeometry x="20" y="260" width="760" height="435" as="geometry" />
+          <mxGeometry x="20" y="190" width="760" height="435" as="geometry" />
         </mxCell>
         <mxCell id="KyIwBhKpUNpI25Vdc8Lh-51" value="Infected non-union" style="swimlane;whiteSpace=wrap;html=1;" parent="dNxyNK7c78bLwvsdeMH5-21" vertex="1">
           <mxGeometry x="540" width="220" height="435" as="geometry" />
@@ -87,23 +87,23 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GJUMKdBJynLQCOJIfzVS-5" value="Follow fracture-related infection guidance before definitive non-union management" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="KyIwBhKpUNpI25Vdc8Lh-51">
-          <mxGeometry x="20" y="70" width="160" height="60" as="geometry" />
+          <mxGeometry x="10" y="70" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GJUMKdBJynLQCOJIfzVS-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="KyIwBhKpUNpI25Vdc8Lh-51" source="GJUMKdBJynLQCOJIfzVS-6" target="GJUMKdBJynLQCOJIfzVS-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GJUMKdBJynLQCOJIfzVS-6" value="Medical assessment +- acute sepsis management&lt;div&gt;Debridement&lt;/div&gt;&lt;div&gt;Sampling&lt;/div&gt;&lt;div&gt;Assess stability +- retain/exchange/removal fixation&lt;/div&gt;&lt;div&gt;Local &amp;amp; systemic antibiotics&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="KyIwBhKpUNpI25Vdc8Lh-51">
-          <mxGeometry x="10" y="150" width="180" height="110" as="geometry" />
+          <mxGeometry x="10" y="150" width="200" height="110" as="geometry" />
         </mxCell>
         <mxCell id="GJUMKdBJynLQCOJIfzVS-13" value="Resolution?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=0;" vertex="1" parent="KyIwBhKpUNpI25Vdc8Lh-51">
-          <mxGeometry x="60" y="280" width="80" height="80" as="geometry" />
+          <mxGeometry x="70" y="284.5" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GJUMKdBJynLQCOJIfzVS-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="KyIwBhKpUNpI25Vdc8Lh-51" source="GJUMKdBJynLQCOJIfzVS-13" target="GJUMKdBJynLQCOJIfzVS-6">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="170" y="320" as="sourcePoint" />
             <mxPoint x="270" y="320" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="145" y="300" />
+              <mxPoint x="160" y="290" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -112,6 +112,15 @@
         </mxCell>
         <mxCell id="GJUMKdBJynLQCOJIfzVS-17" value="Return to start" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="KyIwBhKpUNpI25Vdc8Lh-51">
           <mxGeometry x="55" y="380" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GJUMKdBJynLQCOJIfzVS-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="KyIwBhKpUNpI25Vdc8Lh-51" source="GJUMKdBJynLQCOJIfzVS-13" target="GJUMKdBJynLQCOJIfzVS-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-240" y="340" as="sourcePoint" />
+            <mxPoint x="-140" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GJUMKdBJynLQCOJIfzVS-21" value="Yes" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="GJUMKdBJynLQCOJIfzVS-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GJUMKdBJynLQCOJIfzVS-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-21" source="GJUMKdBJynLQCOJIfzVS-1" target="GJUMKdBJynLQCOJIfzVS-3">
           <mxGeometry relative="1" as="geometry" />
@@ -127,7 +136,7 @@
             <mxPoint x="300" y="150" as="sourcePoint" />
             <mxPoint x="400" y="150" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="640" y="50" />
+              <mxPoint x="650" y="50" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -135,7 +144,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-22" value="Unreconstructable" style="swimlane;html=1;startSize=20;horizontal=0;fontSize=14;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
-          <mxGeometry x="20" y="695" width="760" height="300" as="geometry">
+          <mxGeometry x="20" y="625" width="760" height="300" as="geometry">
             <mxRectangle x="20" y="320" width="670" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -155,7 +164,7 @@
           <mxGeometry x="460" y="50" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KyIwBhKpUNpI25Vdc8Lh-34" value="Salvage" style="swimlane;html=1;startSize=20;horizontal=0;fontSize=14;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
-          <mxGeometry x="20" y="995" width="760" height="290" as="geometry">
+          <mxGeometry x="20" y="925" width="760" height="290" as="geometry">
             <mxRectangle x="20" y="240" width="430" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
