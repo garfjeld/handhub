@@ -124,6 +124,18 @@
         <mxCell id="GJUMKdBJynLQCOJIfzVS-3" value="Infected?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
           <mxGeometry x="470" y="10" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="GJUMKdBJynLQCOJIfzVS-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-21" source="GJUMKdBJynLQCOJIfzVS-3" target="GJUMKdBJynLQCOJIfzVS-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="150" as="sourcePoint" />
+            <mxPoint x="400" y="150" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="660" y="50" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GJUMKdBJynLQCOJIfzVS-11" value="Confirmed or&lt;div&gt;suspected&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="GJUMKdBJynLQCOJIfzVS-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-22" value="Unreconstructable" style="swimlane;html=1;startSize=20;horizontal=0;fontSize=14;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
           <mxGeometry x="20" y="620" width="760" height="300" as="geometry">
             <mxRectangle x="20" y="320" width="670" height="30" as="alternateBounds" />
@@ -185,15 +197,6 @@
               <mxPoint x="41" y="-610" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="GJUMKdBJynLQCOJIfzVS-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="450" as="sourcePoint" />
-            <mxPoint x="460" y="450" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="GJUMKdBJynLQCOJIfzVS-11" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="GJUMKdBJynLQCOJIfzVS-10">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
