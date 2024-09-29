@@ -7,24 +7,6 @@
         <mxCell id="dNxyNK7c78bLwvsdeMH5-19" value="Scaphoid non-union algorithm" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="40" y="40" width="780" height="1285" as="geometry" />
         </mxCell>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" parent="dNxyNK7c78bLwvsdeMH5-19" source="dNxyNK7c78bLwvsdeMH5-28" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="300" y="150" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" parent="dNxyNK7c78bLwvsdeMH5-19" source="dNxyNK7c78bLwvsdeMH5-28" target="dNxyNK7c78bLwvsdeMH5-34" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" parent="dNxyNK7c78bLwvsdeMH5-19" target="dNxyNK7c78bLwvsdeMH5-36" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="150" y="390" />
-              <mxPoint x="120" y="390" />
-              <mxPoint x="120" y="600" />
-            </Array>
-            <mxPoint x="150" y="299.9999999999999" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-20" value="Presentation" style="swimlane;html=1;startSize=20;horizontal=0;fontSize=14;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
           <mxGeometry x="20" width="760" height="260" as="geometry" />
         </mxCell>
@@ -98,14 +80,6 @@
         <mxCell id="dNxyNK7c78bLwvsdeMH5-21" value="Potential for union to prevent secondary arthritis" style="swimlane;html=1;startSize=20;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
           <mxGeometry x="20" y="260" width="760" height="435" as="geometry" />
         </mxCell>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" parent="dNxyNK7c78bLwvsdeMH5-21" target="dNxyNK7c78bLwvsdeMH5-28" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="200" y="59.999999999999886" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-28" value="" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" parent="dNxyNK7c78bLwvsdeMH5-21" vertex="1">
-          <mxGeometry x="260" y="40" width="40" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="KyIwBhKpUNpI25Vdc8Lh-51" value="Infected non-union" style="swimlane;whiteSpace=wrap;html=1;" parent="dNxyNK7c78bLwvsdeMH5-21" vertex="1">
           <mxGeometry x="540" width="220" height="435" as="geometry" />
         </mxCell>
@@ -136,6 +110,9 @@
         <mxCell id="GJUMKdBJynLQCOJIfzVS-16" value="No" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="GJUMKdBJynLQCOJIfzVS-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="GJUMKdBJynLQCOJIfzVS-17" value="Return to start" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="KyIwBhKpUNpI25Vdc8Lh-51">
+          <mxGeometry x="55" y="380" width="90" height="50" as="geometry" />
+        </mxCell>
         <mxCell id="GJUMKdBJynLQCOJIfzVS-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-21" source="GJUMKdBJynLQCOJIfzVS-1" target="GJUMKdBJynLQCOJIfzVS-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -161,15 +138,6 @@
           <mxGeometry x="20" y="695" width="760" height="300" as="geometry">
             <mxRectangle x="20" y="320" width="670" height="30" as="alternateBounds" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" parent="dNxyNK7c78bLwvsdeMH5-22" source="dNxyNK7c78bLwvsdeMH5-34" target="dNxyNK7c78bLwvsdeMH5-36" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" parent="dNxyNK7c78bLwvsdeMH5-22" vertex="1">
-          <mxGeometry x="240" y="20" width="80" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-36" value="" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" parent="dNxyNK7c78bLwvsdeMH5-22" vertex="1">
-          <mxGeometry x="130" y="120" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KyIwBhKpUNpI25Vdc8Lh-74" value="Total or partial custom scaphoid replacement" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="dNxyNK7c78bLwvsdeMH5-22" vertex="1">
           <mxGeometry x="460" y="250" width="280" height="40" as="geometry" />
