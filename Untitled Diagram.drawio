@@ -93,8 +93,8 @@
         <mxCell id="GJUMKdBJynLQCOJIfzVS-5" value="Follow fracture-related infection guidance before definitive non-union management" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="KyIwBhKpUNpI25Vdc8Lh-51">
           <mxGeometry x="20" y="70" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GJUMKdBJynLQCOJIfzVS-6" value="Medical assessment +- acute sepsis management&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="KyIwBhKpUNpI25Vdc8Lh-51">
-          <mxGeometry x="20" y="140" width="160" height="110" as="geometry" />
+        <mxCell id="GJUMKdBJynLQCOJIfzVS-6" value="Medical assessment +- acute sepsis management&lt;div&gt;Debridement&lt;/div&gt;&lt;div&gt;Sampling&lt;/div&gt;&lt;div&gt;Assess stability +- retain/exchange/removal fixation&lt;/div&gt;&lt;div&gt;Local &amp;amp; systemic antibiotics&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="KyIwBhKpUNpI25Vdc8Lh-51">
+          <mxGeometry x="10" y="140" width="180" height="110" as="geometry" />
         </mxCell>
         <mxCell id="GJUMKdBJynLQCOJIfzVS-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-21" source="GJUMKdBJynLQCOJIfzVS-1" target="GJUMKdBJynLQCOJIfzVS-3">
           <mxGeometry relative="1" as="geometry" />
