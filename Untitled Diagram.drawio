@@ -73,8 +73,27 @@
         <mxCell id="KyIwBhKpUNpI25Vdc8Lh-70" value="XR and CT" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" parent="KyIwBhKpUNpI25Vdc8Lh-69" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="GJUMKdBJynLQCOJIfzVS-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-20" source="KyIwBhKpUNpI25Vdc8Lh-88">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="KyIwBhKpUNpI25Vdc8Lh-88" value="include radial styloidectomy +- wrist denervation with definitive non-union management" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="dNxyNK7c78bLwvsdeMH5-20" vertex="1">
           <mxGeometry x="460" y="150" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GJUMKdBJynLQCOJIfzVS-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="349.5" y="100" as="sourcePoint" />
+            <mxPoint x="349.5" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="349.5" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GJUMKdBJynLQCOJIfzVS-8" value="No" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="GJUMKdBJynLQCOJIfzVS-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1" y="-55" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-21" value="Potential for union to prevent secondary arthritis" style="swimlane;html=1;startSize=20;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
           <mxGeometry x="20" y="260" width="760" height="360" as="geometry" />
@@ -167,7 +186,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="GJUMKdBJynLQCOJIfzVS-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-19" source="KyIwBhKpUNpI25Vdc8Lh-61" target="GJUMKdBJynLQCOJIfzVS-1">
+        <mxCell id="GJUMKdBJynLQCOJIfzVS-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="450" as="sourcePoint" />
+            <mxPoint x="460" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GJUMKdBJynLQCOJIfzVS-11" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="GJUMKdBJynLQCOJIfzVS-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
