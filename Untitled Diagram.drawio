@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dNxyNK7c78bLwvsdeMH5-19" value="Scaphoid non-union algorithm" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="40" y="40" width="780" height="1130" as="geometry" />
+          <mxGeometry x="40" y="40" width="780" height="1195" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-20" value="Presentation" style="swimlane;html=1;startSize=20;horizontal=0;fontSize=14;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
           <mxGeometry x="20" width="760" height="190" as="geometry" />
@@ -78,7 +78,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-21" value="Potential for union to prevent secondary arthritis" style="swimlane;html=1;startSize=20;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
-          <mxGeometry x="20" y="190" width="760" height="435" as="geometry" />
+          <mxGeometry x="20" y="190" width="760" height="500" as="geometry" />
         </mxCell>
         <mxCell id="KyIwBhKpUNpI25Vdc8Lh-51" value="Infected non-union" style="swimlane;whiteSpace=wrap;html=1;" parent="dNxyNK7c78bLwvsdeMH5-21" vertex="1">
           <mxGeometry x="540" width="220" height="435" as="geometry" />
@@ -146,11 +146,38 @@
         <mxCell id="GJUMKdBJynLQCOJIfzVS-11" value="Confirmed or&lt;div&gt;suspected&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="GJUMKdBJynLQCOJIfzVS-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GJUMKdBJynLQCOJIfzVS-22" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
+        <mxCell id="GJUMKdBJynLQCOJIfzVS-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-21" source="GJUMKdBJynLQCOJIfzVS-22" target="GJUMKdBJynLQCOJIfzVS-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GJUMKdBJynLQCOJIfzVS-22" value="Location" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
           <mxGeometry x="150" y="10" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="GJUMKdBJynLQCOJIfzVS-26" value="Bone loss/&lt;div&gt;deformity after debridement&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
+          <mxGeometry x="150" y="177.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GJUMKdBJynLQCOJIfzVS-27" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="217" as="sourcePoint" />
+            <mxPoint x="330" y="217" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GJUMKdBJynLQCOJIfzVS-28" value="No" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="GJUMKdBJynLQCOJIfzVS-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GJUMKdBJynLQCOJIfzVS-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
+          <mxGeometry x="330" y="187.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GJUMKdBJynLQCOJIfzVS-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-21" source="GJUMKdBJynLQCOJIfzVS-30" target="GJUMKdBJynLQCOJIfzVS-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GJUMKdBJynLQCOJIfzVS-30" value="Fragmentation, limited volume for fixation" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
+          <mxGeometry x="60" y="260" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GJUMKdBJynLQCOJIfzVS-32" value="AVN prox pole" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
+          <mxGeometry x="220" y="260" width="80" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-22" value="Unreconstructable" style="swimlane;html=1;startSize=20;horizontal=0;fontSize=14;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
-          <mxGeometry x="20" y="625" width="760" height="215" as="geometry">
+          <mxGeometry x="20" y="690" width="760" height="215" as="geometry">
             <mxRectangle x="20" y="320" width="670" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -166,8 +193,11 @@
         <mxCell id="KyIwBhKpUNpI25Vdc8Lh-78" value="Proximal hamate, graft or pedicled&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="dNxyNK7c78bLwvsdeMH5-22" vertex="1">
           <mxGeometry x="470" y="15" width="280" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="GJUMKdBJynLQCOJIfzVS-34" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-22">
+          <mxGeometry x="60" y="35" width="80" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="KyIwBhKpUNpI25Vdc8Lh-34" value="Salvage" style="swimlane;html=1;startSize=20;horizontal=0;fontSize=14;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
-          <mxGeometry x="20" y="840" width="760" height="290" as="geometry">
+          <mxGeometry x="20" y="905" width="760" height="290" as="geometry">
             <mxRectangle x="20" y="240" width="430" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -199,11 +229,23 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="GJUMKdBJynLQCOJIfzVS-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-19" source="GJUMKdBJynLQCOJIfzVS-30" target="GJUMKdBJynLQCOJIfzVS-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GJUMKdBJynLQCOJIfzVS-18" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Abbreviations&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: normal;&quot;&gt;APSI - Adaptive proximal scaphoid implant&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; font-weight: normal;&quot;&gt;(N)VBG - (non)vascularised bone graft&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: normal;&quot;&gt;MDT - Multidisciplinary team&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; font-weight: normal;&quot;&gt;SNAC - Scaphoid non-union advanced collapse&lt;/span&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="1360" width="470" height="200" as="geometry" />
         </mxCell>
         <mxCell id="GJUMKdBJynLQCOJIfzVS-19" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Notes and references&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;§ - where preferred treatment not routinely offered locally, consider conference with or onward referral to another centre&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;Though there is no level 1 evidence that vascularised or non-vascularised bone graft has a higher union rate in the presence of proximal pole AVN, the anticipation is that union would be more reliable overall in the setting of two perfused interfaces (distal pole to VBG, and VBG to proximal pole) than in one perfused (NVBG and distal pole) and one non-perfused (NVBG and proximal pole) interface&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;European Bone &amp;amp; Joint Infection Society, Fracture related infection Short Guide 2018&amp;nbsp;&lt;a href=&quot;https://ebjis.org/fileadmin/user_upload/EBJIS/EBJIS_FRI_Guidelines_2018_Final.pdf&quot;&gt;https://ebjis.org/fileadmin/user_upload/EBJIS/EBJIS_FRI_Guidelines_2018_Final.pdf&lt;/a&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px; caret-color: rgb(33, 33, 33); color: rgb(33, 33, 33); font-family: BlinkMacSystemFont, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;Cioffi A et al. Treatment of Scaphoid Non-Unions with Custom-Made 3D-Printed Titanium Partial and Total Scaphoid Prostheses and Scaphoid Interosseous Ligament Reconstruction. Healthcare (Basel). 2023 Dec 8;11(24):3123. doi: 10.3390/healthcare11243123. PMID: 38132013; PMCID: PMC10743063.&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px; caret-color: rgb(33, 33, 33); color: rgb(33, 33, 33); font-family: BlinkMacSystemFont, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;ol style=&quot;margin: 0px 0px 0px 20px; padding: 0px; caret-color: rgb(51, 51, 51); color: rgb(51, 51, 51); font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif;&quot; id=&quot;downloadCitList&quot;&gt;&lt;li&gt;&lt;h4 style=&quot;margin: 0px; font-weight: normal; line-height: 18px; font-size: 14px; text-rendering: optimizelegibility; font-family: Georgia, serif;&quot;&gt;Vascularized hemi-hamate graft: Anatomic description of a novel pedicled osteo-chondro-ligamentous flap for proximal scaphoid reconstruction&lt;/h4&gt;&lt;div&gt;Witters, Marie et al.&lt;/div&gt;&lt;div&gt;Journal of Plastic, Reconstructive &amp;amp; Aesthetic Surgery, Volume 98, 64 - 72&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px; caret-color: rgb(33, 33, 33); color: rgb(33, 33, 33); font-family: BlinkMacSystemFont, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;Elhassan B, Noureldin M, Kakar S. Proximal Scaphoid Pole Reconstruction Utilizing Ipsilateral Proximal Hamate Autograft. Hand (N Y). 2016 Dec;11(4):495-499. doi: 10.1177/1558944716628497. Epub 2016 Mar 3. PMID: 28149221; PMCID: PMC5256655.&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px; caret-color: rgb(33, 33, 33); color: rgb(33, 33, 33); font-family: BlinkMacSystemFont, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px; caret-color: rgb(33, 33, 33); color: rgb(33, 33, 33); font-family: BlinkMacSystemFont, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;Aribert M, Bouju Y, Chaise F, Loubersac T, Gaisne E, Bellemère P. Adaptive Proximal Scaphoid Implant (APSI): 10-year outcomes in patients with SNAC wrists. Hand Surg Rehabil. 2019 Feb;38(1):34-43. doi: 10.1016/j.hansur.2018.10.245. Epub 2019 Jan 2. PMID: 30611704.&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px; caret-color: rgb(33, 33, 33); color: rgb(33, 33, 33); font-family: BlinkMacSystemFont, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px; caret-color: rgb(33, 33, 33); color: rgb(33, 33, 33); font-family: BlinkMacSystemFont, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;caret-color: rgb(51, 51, 51); color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, sans-serif;&quot;&gt;Al-Jabri, T., Mannan, A. &amp;amp; Giannoudis, P. The use of the free vascularised bone graft for nonunion of the scaphoid: a systematic review.&amp;nbsp;&lt;/span&gt;&lt;i style=&quot;margin: 0px; box-sizing: inherit; caret-color: rgb(51, 51, 51); color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, sans-serif;&quot;&gt;J Orthop Surg Res&lt;/i&gt;&lt;span style=&quot;caret-color: rgb(51, 51, 51); color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, sans-serif;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;margin: 0px; box-sizing: inherit; caret-color: rgb(51, 51, 51); color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, sans-serif;&quot;&gt;9&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(51, 51, 51); color: rgb(51, 51, 51); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, sans-serif;&quot;&gt;, 21 (2014). https://doi.org/10.1186/1749-799X-9-21 (Med fem condyl)&lt;/span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px; caret-color: rgb(33, 33, 33); color: rgb(33, 33, 33); font-family: BlinkMacSystemFont, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px; caret-color: rgb(33, 33, 33); color: rgb(33, 33, 33); font-family: BlinkMacSystemFont, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Fira Sans&amp;quot;, &amp;quot;Droid Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="1580" width="720" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="GJUMKdBJynLQCOJIfzVS-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="GJUMKdBJynLQCOJIfzVS-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="550" as="sourcePoint" />
+            <mxPoint x="250" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GJUMKdBJynLQCOJIfzVS-25" value="Middle/distal" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="GJUMKdBJynLQCOJIfzVS-24">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
