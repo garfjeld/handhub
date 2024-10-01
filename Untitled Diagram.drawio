@@ -63,20 +63,6 @@
         <mxCell id="KyIwBhKpUNpI25Vdc8Lh-88" value="include radial styloidectomy +- wrist denervation with definitive non-union management" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="dNxyNK7c78bLwvsdeMH5-20" vertex="1">
           <mxGeometry x="460" y="130" width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GJUMKdBJynLQCOJIfzVS-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="dNxyNK7c78bLwvsdeMH5-20" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="349.5" y="100" as="sourcePoint" />
-            <mxPoint x="349.5" y="270" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="349.5" y="130" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="GJUMKdBJynLQCOJIfzVS-8" value="No" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" parent="GJUMKdBJynLQCOJIfzVS-7" connectable="0" vertex="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1" y="-55" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-21" value="Potential for union to prevent secondary arthritis" style="swimlane;html=1;startSize=20;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
           <mxGeometry x="20" y="190" width="760" height="460" as="geometry" />
         </mxCell>
@@ -261,11 +247,6 @@
         <mxCell id="V9zsYjX7iu7tiQ65q-al-2" value="Non-bleeding" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="V9zsYjX7iu7tiQ65q-al-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GJUMKdBJynLQCOJIfzVS-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="dNxyNK7c78bLwvsdeMH5-21" source="GJUMKdBJynLQCOJIfzVS-30" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="136" y="435" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="V9zsYjX7iu7tiQ65q-al-11" value="Unreconstructable" style="swimlane;html=1;startSize=20;horizontal=0;fontSize=14;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-19">
           <mxGeometry x="20" y="650" width="760" height="210" as="geometry">
             <mxRectangle x="20" y="320" width="670" height="30" as="alternateBounds" />
@@ -308,6 +289,41 @@
         </mxCell>
         <mxCell id="V9zsYjX7iu7tiQ65q-al-5" value="Non-operative management, including splints, activity modification, intra-articular injections" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="V9zsYjX7iu7tiQ65q-al-4">
           <mxGeometry x="36" y="-30" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V9zsYjX7iu7tiQ65q-al-23" value="&lt;div&gt;If&lt;/div&gt;treatment&lt;div&gt;failure&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="V9zsYjX7iu7tiQ65q-al-4">
+          <mxGeometry x="356" y="-40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="V9zsYjX7iu7tiQ65q-al-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="V9zsYjX7iu7tiQ65q-al-4" source="V9zsYjX7iu7tiQ65q-al-5" target="V9zsYjX7iu7tiQ65q-al-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="346" y="-295" as="sourcePoint" />
+            <mxPoint x="396" y="-345" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GJUMKdBJynLQCOJIfzVS-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="dNxyNK7c78bLwvsdeMH5-19" edge="1" target="GJUMKdBJynLQCOJIfzVS-1" source="KyIwBhKpUNpI25Vdc8Lh-61">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="369.5" y="100" as="sourcePoint" />
+            <mxPoint x="369.5" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="369.5" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GJUMKdBJynLQCOJIfzVS-8" value="No" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" parent="GJUMKdBJynLQCOJIfzVS-7" connectable="0" vertex="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="-25" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V9zsYjX7iu7tiQ65q-al-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-19" source="GJUMKdBJynLQCOJIfzVS-30" target="V9zsYjX7iu7tiQ65q-al-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="126" y="615" as="sourcePoint" />
+            <mxPoint x="226" y="615" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="186" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V9zsYjX7iu7tiQ65q-al-22" value="Yes" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="V9zsYjX7iu7tiQ65q-al-21">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GJUMKdBJynLQCOJIfzVS-18" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Abbreviations&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: normal;&quot;&gt;APSI - Adaptive proximal scaphoid implant&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; font-weight: normal;&quot;&gt;(N)VBG - (non)vascularised bone graft&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: normal;&quot;&gt;MDT - Multidisciplinary team&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; font-weight: normal;&quot;&gt;SNAC - Scaphoid non-union advanced collapse&lt;/span&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="1360" width="470" height="200" as="geometry" />
