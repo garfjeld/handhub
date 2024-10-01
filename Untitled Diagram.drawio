@@ -258,7 +258,7 @@
             <mxPoint x="380" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="V9zsYjX7iu7tiQ65q-al-2" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="V9zsYjX7iu7tiQ65q-al-1">
+        <mxCell id="V9zsYjX7iu7tiQ65q-al-2" value="Non-bleeding" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="V9zsYjX7iu7tiQ65q-al-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-22" value="Unreconstructable" style="swimlane;html=1;startSize=20;horizontal=0;fontSize=14;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
