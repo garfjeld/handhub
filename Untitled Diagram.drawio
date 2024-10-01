@@ -277,6 +277,45 @@
         <mxCell id="V9zsYjX7iu7tiQ65q-al-18" value="Assess:&lt;div&gt;extent of degenerative change,&lt;/div&gt;&lt;div&gt;degree of symptoms,&lt;/div&gt;&lt;div&gt;patient expectations,&lt;/div&gt;&lt;div&gt;requirements,&lt;/div&gt;&lt;div&gt;and motivations&amp;nbsp;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="V9zsYjX7iu7tiQ65q-al-11">
           <mxGeometry x="46" y="15" width="260" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="V9zsYjX7iu7tiQ65q-al-33" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="V9zsYjX7iu7tiQ65q-al-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="436" y="180" as="sourcePoint" />
+            <mxPoint x="436" y="30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V9zsYjX7iu7tiQ65q-al-36" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="V9zsYjX7iu7tiQ65q-al-11" target="V9zsYjX7iu7tiQ65q-al-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="436" y="30" as="sourcePoint" />
+            <mxPoint x="486" y="-25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V9zsYjX7iu7tiQ65q-al-37" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="V9zsYjX7iu7tiQ65q-al-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="436" y="79.65999999999997" as="sourcePoint" />
+            <mxPoint x="470" y="79.65999999999997" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V9zsYjX7iu7tiQ65q-al-38" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="V9zsYjX7iu7tiQ65q-al-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="436" y="129.65999999999997" as="sourcePoint" />
+            <mxPoint x="470" y="129.65999999999997" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V9zsYjX7iu7tiQ65q-al-39" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="V9zsYjX7iu7tiQ65q-al-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="436" y="179.65999999999997" as="sourcePoint" />
+            <mxPoint x="470" y="179.65999999999997" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V9zsYjX7iu7tiQ65q-al-40" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="V9zsYjX7iu7tiQ65q-al-11" source="V9zsYjX7iu7tiQ65q-al-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="316" y="79.79999999999995" as="sourcePoint" />
+            <mxPoint x="436" y="65" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V9zsYjX7iu7tiQ65q-al-41" value="Potential&lt;div&gt;surgical&lt;div&gt;options&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="V9zsYjX7iu7tiQ65q-al-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="V9zsYjX7iu7tiQ65q-al-4" value="Salvage" style="swimlane;html=1;startSize=20;horizontal=0;fontSize=14;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-19">
           <mxGeometry x="20" y="870" width="760" height="260" as="geometry">
             <mxRectangle x="20" y="240" width="430" height="30" as="alternateBounds" />
@@ -309,7 +348,7 @@
             <mxPoint x="286" y="85" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="V9zsYjX7iu7tiQ65q-al-28" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="V9zsYjX7iu7tiQ65q-al-27">
+        <mxCell id="V9zsYjX7iu7tiQ65q-al-28" value="&lt;span style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: center; text-indent: 0px; text-transform: none; white-space: nowrap; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration: none; display: inline !important; float: none;&quot;&gt;Insufficiently symptomatic that&lt;/span&gt;&lt;div style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: center; text-indent: 0px; text-transform: none; white-space: nowrap; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration: none;&quot;&gt;benefits outweigh risks of surgery&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="V9zsYjX7iu7tiQ65q-al-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="V9zsYjX7iu7tiQ65q-al-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="V9zsYjX7iu7tiQ65q-al-4" source="V9zsYjX7iu7tiQ65q-al-5" target="V9zsYjX7iu7tiQ65q-al-23">
@@ -325,6 +364,45 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="V9zsYjX7iu7tiQ65q-al-32" value="SNAC2+" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="V9zsYjX7iu7tiQ65q-al-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V9zsYjX7iu7tiQ65q-al-42" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="V9zsYjX7iu7tiQ65q-al-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="436" y="185" as="sourcePoint" />
+            <mxPoint x="436" y="35" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V9zsYjX7iu7tiQ65q-al-43" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="V9zsYjX7iu7tiQ65q-al-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="436" y="35" as="sourcePoint" />
+            <mxPoint x="470" y="35" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V9zsYjX7iu7tiQ65q-al-44" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="V9zsYjX7iu7tiQ65q-al-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="436" y="84.65999999999997" as="sourcePoint" />
+            <mxPoint x="470" y="84.65999999999997" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V9zsYjX7iu7tiQ65q-al-45" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="V9zsYjX7iu7tiQ65q-al-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="436" y="134.65999999999997" as="sourcePoint" />
+            <mxPoint x="470" y="134.65999999999997" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V9zsYjX7iu7tiQ65q-al-46" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="V9zsYjX7iu7tiQ65q-al-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="436" y="184.65999999999985" as="sourcePoint" />
+            <mxPoint x="470" y="184.65999999999985" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V9zsYjX7iu7tiQ65q-al-47" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="V9zsYjX7iu7tiQ65q-al-4" source="V9zsYjX7iu7tiQ65q-al-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="308" y="144.79999999999995" as="sourcePoint" />
+            <mxPoint x="436" y="145" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V9zsYjX7iu7tiQ65q-al-48" value="Potential&lt;div&gt;surgical&lt;div&gt;options&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="V9zsYjX7iu7tiQ65q-al-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GJUMKdBJynLQCOJIfzVS-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="dNxyNK7c78bLwvsdeMH5-19" edge="1" target="GJUMKdBJynLQCOJIfzVS-1" source="KyIwBhKpUNpI25Vdc8Lh-61">
@@ -361,7 +439,7 @@
             <mxPoint x="316" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="V9zsYjX7iu7tiQ65q-al-26" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="V9zsYjX7iu7tiQ65q-al-25">
+        <mxCell id="V9zsYjX7iu7tiQ65q-al-26" value="Insufficiently symptomatic that&lt;div&gt;benefits outweigh risks of surgery&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="V9zsYjX7iu7tiQ65q-al-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="V9zsYjX7iu7tiQ65q-al-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-19" source="V9zsYjX7iu7tiQ65q-al-23" target="V9zsYjX7iu7tiQ65q-al-18">
